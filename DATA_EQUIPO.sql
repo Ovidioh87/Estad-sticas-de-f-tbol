@@ -1,0 +1,21 @@
+SELECT * FROM equipo;
+INSERT INTO equipo (id, nombre, id_entrenador) 
+VALUES
+(010, 'MUNICIPAL', 1),
+(020, 'CREMAS', 2 ),
+(030, 'COBAN', 3),
+(040,' ANTIGUA', 4 ),
+(050, 'MALACATAN', 5 ),
+(060, 'MICTLAN', 6 ),
+(070, 'RMADRID', 7),
+(080, 'BARCELONA', 8),
+(090, 'SEVILLA', 9),
+(0100, 'ATMADRID', 10),
+(0110, 'VALENCIA', 11),
+(0120, 'CELTA', 12),
+(0130, 'JUVENTUS', 13),
+(0140, 'INTER', 14),
+(0150, 'LAZIO', 15),
+(0160,' MILAN', 16), 
+(0170, 'ROMA', 17),
+(0180, 'TORINO', 18);
